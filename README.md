@@ -1,7 +1,7 @@
 <img align="cemter" alt="head" width= "" src="https://cdn.discordapp.com/attachments/892554814939082793/1180055030569652237/guilty.png?ex=657c06e3&is=656991e3&hm=e32a2cceeb140d8a78fef98463abd6ed5dacd28d738b287597c0080a355e76ad&">
 <h1 align="center">Yoooowwww, Aku Rahmatul Firdaus</h1>
 <h3 align="center">known as yedija, Im logic person, become a multi-platform app dev</h3>
-<img align="right" alt="Coding" width= "400" src="https://cdn.discordapp.com/attachments/892554814939082793/1180053486717640735/me_2.png?ex=657c0573&is=65699073&hm=db4d9e0b58a098078149f67532dd37e8acceb57e42ebe3d34401d0a5a3b6845b&">
+<img align="right" alt="Coding" width= "400" src="https://cdn.discordapp.com/attachments/892554814939082793/1180059985980444732/me.png?ex=657c0b81&is=65699681&hm=01a542dcab290b97035072034890a825a008a1e03b8596d239f9e3f52606a435&">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmatulfirdaus&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatulfirdaus" /> </p>
