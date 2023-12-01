@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahmatul Firdaus</h1>
+<h1 align="center">Yoooowwww, I'm Rahmatul Firdaus</h1>
 <h3 align="center">known as yedija, Im logic person, become a multi-platform app dev</h3>
 <img align="right" alt="Coding" src="https://cdn.discordapp.com/attachments/892554814939082793/1166598589536026695/1024_1.gif?ex=654b129a&is=65389d9a&hm=f83c6ad5ad8cc7639bff283d13620d37a9ffc00e5752cef1df7ce5b050bf2ed0&">
 
