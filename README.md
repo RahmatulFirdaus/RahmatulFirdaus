@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ellen yedija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ellen yedija" height="30" width="40" /></a>
-<a href="https://instagram.com/@ellenyedija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ellenyedija" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yedija dimension" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yedija dimension" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rahmadyedija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ellen yedija" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ellenyedija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ellenyedija" height="30" width="40" /></a>
+<a href="www.youtube.com/@yedijadimension3241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yedija dimension" height="30" width="40" /></a>
 <a href="https://discord.gg/key_yed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="key_yed" height="30" width="40" /></a>
 </p>
 
