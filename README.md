@@ -1,10 +1,8 @@
 <img align="cemter" alt="head" width= "" src="https://gifdb.com/images/high/anime-bamboo-forest-background-5rx5lwev45pcnpaf.webp">
 <h1 align="center">Yoooowwww, Aku Rahmatul Firdaus</h1>
 <h3 align="center">known as yedija, Im logic person, become a multi-platform app dev</h3>
-<img align="right" alt="Coding" width= "300" src="https://cdn.discordapp.com/attachments/892554814939082793/1180059985980444732/me.png?ex=657c0b81&is=65699681&hm=01a542dcab290b97035072034890a825a008a1e03b8596d239f9e3f52606a435&">
+<img align="right" alt="Coding" width= "300" src="https://cdn.discordapp.com/attachments/892554814939082793/1249935072677724220/me.jpg?ex=66691c3f&is=6667cabf&hm=b15b2f68a321feedf0b103412b6811bc2c2506aa3022fc1942c0a5826c1feb73&">
 
-
-<p align="left"> <img src="https://cdn.discordapp.com/attachments/892554814939082793/1249935072677724220/me.jpg?ex=66691c3f&is=6667cabf&hm=b15b2f68a321feedf0b103412b6811bc2c2506aa3022fc1942c0a5826c1feb73&" /> </p>
 
 
 - 📫 How to reach me **ellenyedija@gmail.com**
