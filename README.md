@@ -14,7 +14,7 @@
 <a href="https://www.facebook.com/rahmadyedija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ellen yedija" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ellenyedija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ellenyedija" height="30" width="40" /></a>
 <a href="www.youtube.com/@yedijadimension3241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yedija dimension" height="30" width="40" /></a>
-<a href="https://discord.gg/key_yed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="key_yed" height="30" width="40" /></a>
+<a href="https://discord.gg/key_yed" target="blank"><img align="center" src="https://pics.craiyon.com/2023-06-01/13a5f5b63d0c45a3b3f9720e43b8940f.webp" alt="key_yed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
