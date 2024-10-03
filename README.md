@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmatulfirdaus&show_icons=true&locale=en" alt="rahmatulfirdaus" /></p>
 
-<p><img align="center" src="https://pics.craiyon.com/2023-06-01/13a5f5b63d0c45a3b3f9720e43b8940f.webp" alt="rahmatulfirdaus" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatulfirdaus&" alt="rahmatulfirdaus" /></p>
